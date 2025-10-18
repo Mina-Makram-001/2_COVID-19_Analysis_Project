@@ -209,7 +209,7 @@ plt.show()
 
 ### Results
 
-![visualization](outputs\output1.png)
+![visualization](outputs/output1.png)
 
 
 ### Insights
@@ -277,7 +277,7 @@ plt.show()
 
 ### Results
 
-![visualization](outputs\output2.png)
+![visualization](outputs/output2.png)
 
 ### Insights
 
@@ -358,7 +358,7 @@ plt.show()
 
 ### Results
 
-![visualization](outputs\output3.png)
+![visualization](outputs/output3.png)
 
 
 ### Insights
@@ -409,7 +409,7 @@ plt.show()
 
 ### Results
 
-![visualization](outputs\output4.png)
+![visualization](outputs/output4.png)
 
 
 ### Insights
@@ -467,7 +467,7 @@ plt.show()
 
 
 ### Results
-![visualization](outputs\output5.png)
+![visualization](outputs/output5.png)
 
 
 ### Insights
@@ -509,7 +509,7 @@ plt.show()
 
 
 ### Results
-![visualization](outputs\output6.png)
+![visualization](outputs/output6.png)
 
 
 ### Insights
@@ -582,7 +582,7 @@ plt.show()
 
 
 ### Results
-![visualization](outputs\output7.png)
+![visualization](outputs/output7.png)
 
 
 ### Insights
@@ -686,7 +686,7 @@ plt.show()
 
 
 ### Results
-![visualization](outputs\output8.png)
+![visualization](outputs/output8.png)
 
 
 ### Insights
